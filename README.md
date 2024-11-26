@@ -1,5 +1,5 @@
-# New Student Registartion
-Student Registration is a online webpage build for new students to enroll in the institution and it conveys the significance of input fields used for student registration process.
+# Student Enrollment
+Student Enrollment is a online webpage build for new students to enroll in the institution and it conveys the significance of input fields used for student registration process.
 Project Link - https://sweetynehra.github.io/SE_Task_Student_Enrollment/
 
 
